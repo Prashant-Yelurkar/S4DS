@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" href="images/LOGO_19_forWeb.png">
+        <title>S4DS | TCET</title>
+        <link rel="stylesheet" href="index.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+        <script src="jQuery.js"></script>
+
+
+    </head>
+    <body>
+
+        <!-- Animation, cursor, logo -->
+        <div class="cursor"></div>
+        <div class="effect"></div>
+
+
+
+
+        <!-- Navigation -->
+
+        <div class="logo"><img class="logo" src="images/LOGO_19_forWeb.png"></div>
+        <section class="navigation">
+            <nav class="side-nav">
+                <div class="nav"></div>
+                <ul>
+                    <li><a href="#home" class="nav-link cursor-scale small" ><i class="fa fa-home nav-icon" ></i>home</i></a></li>
+                    <li><a href="#events" class="nav-link cursor-scale small"><i class="fa-solid fa-calendar nav-icon"></i>events</i></a></li>
+                    <li><a href="#about" class="nav-link cursor-scale small"><i class="fa-brands fa-pushed nav-icon" ></i>about us</a></li>
+                    <li><a href="#team" class="nav-link cursor-scale small" title="Our Team"><i class="fa-solid fa-users-between-lines nav-icon"></i>team</a></li>
+                    <li><a href="#contact" class="nav-link cursor-scale small"><i class="fa-solid fa-headset nav-icon"></i>contact</a></li>
+                </ul>
+            </nav>
+        </section>
+
+        
+        <!-- home -->
+        
+        <section class="home pages" id="home">
+            <div class="contain" >
+                <h1 class="domain cursor-scale">S<span class="for">4</span>DS<hr></h2><br>
+                <h3 class="college cursor-scale medium" title="Thakur College Of Enginnering and Technology">TCET</h3><br>
+                <p class="description">As the Society for Data Science, we pioneer the exploration and application of data-driven solutions, shaping a future where insights illuminate every corner of society, fostering progress and empowerment for all.</p>
+            </div>
+            <div class="animation">
+                <img src="images/new.gif">
+            </div>
+            <div id="line" class="quotes cursor-scale small"></div>
+        </section>
+               
+            
+        
+
+        <!-- Our Tems -->
+        <section class="team pages" id="team">
+            <div class="team-description">
+                <h2 class="title">Meet with the team</h2>
+                <div class="team-data">
+                    
+                    <!-- team data will appened through server -->
+
+                </div>   
+            </div>
+        </section>
+        
+        
+        
+        <!-- Events  -->
+        
+        <section class="events pages" id="events">
+            <div class="year-button">
+                <select id="event-year">
+                    <!-- year option will appened through server -->
+                </select>
+            </div>
+
+
+            <div class="event-slider">                
+                 <!-- event model will appened through server -->
+            </div>
+
+
+            <div class="cantrols">
+                <i class="fa-regular fa-circle-right fa-rotate-180 " id="previous-event"></i>
+                <i class="fa-regular fa-circle-right " id="next-event"></i>
+            </div>
+        </section>
+
+
+
+
+
+
+
+
+        <!-- Music -->
+        <!-- <div class ="music" title="play">
+            <span class="music-icon fa-solid fa-pause" ></span>
+            <audio id="Audio" autoplay >
+                <source src="music/LightMusic--Pixabay.mp3" type="audio/ogg">
+            </audio>
+        </div> -->
+
+    </body>
+    <script defer src="index.js"></script>
+    <script defer src="server.js"></script>
+</html>

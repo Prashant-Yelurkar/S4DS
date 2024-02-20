@@ -1,0 +1,202 @@
+[
+    {
+        "year" : "2023 - 2024",
+        "teamData" :[
+            {
+                "name": "Ayush Singh",
+                "designation": "Chairperson",
+                "img":"Ayush Singh.JPG",
+                "social_links": {
+                    "linkedin": "https://www.linkedin.com/in/03-ayush-singh/",
+                    "instagram": "https://www.instagram.com/ayushsingh0125/"
+                }
+            },
+            {
+                "name": "Bhavesh Yadav",
+                "designation": "Vice president ",
+                "img":"Bhavesh Yadav.JPG",
+                "social_links": {
+                    "github": "https://github.com/bhaveshy9108?tab=repositories",
+                    "linkedin": "https://www.linkedin.com/in/connect-with-bhavesh-yadav/",
+                    "instagram": "https://www.instagram.com/_bhavesh_yadav/"
+                }
+            },
+            {
+                "name": "Ankush Tiwari",
+                "designation": "Event Manager",
+                "img":"Ankush Tiwari.JPG",
+                "social_links": {
+                    "linkedin": "https://www.linkedin.com/in/ankush-tiwari-1b50a9237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                    "instagram": "https://www.instagram.com/annkushhhh?igsh=MTA5bDRvOWk5c2xyYw%3D%3D&utm_source=qr"
+                }
+            },
+            {
+                "name": "Shreyash Manoj Singh ",
+                "designation": "Treasurer",
+                "img":"Shreyash Manoj Singh .JPG",
+                "social_links": {
+                    "github": "https://github.com/ShreyashSingh1",
+                    "linkedin": "www.linkedin.com/in/shreyashsingh865",
+                    "instagram": "https://www.instagram.com/_.___shreyash___._/?hl=en"
+                }
+            },
+            {
+                "name": "Piyush Vishwakarma",
+                "designation": "Sponsorship Head",
+                "img":"PIYUSH VISHWAKARMA.JPG",
+                "social_links": {
+                    "github": "https://github.com/Piyush-Vishwakarma-27",
+                    "linkedin": "https://www.linkedin.com/in/piyush-v-76165621a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                    "instagram": "https://www.instagram.com/invites/contact/?i=b93jelzww2m&utm_content=c95s5s7e"
+                }
+            },
+            {
+                "name": "Nishita Patel",
+                "designation": "Secretary",
+                "img":"Nishita Patel.JPG",
+                "social_links": {
+                    "instagram": "https://www.instagram.com/nishitaaaaa__?igsh=ZGNjOWZkYTE3MQ=="
+                }
+            },
+            {
+                "name": "Mayank Mishra",
+                "designation": "Creative Head",
+                "img":"Mayank.JPG",
+                "social_links": {
+                    "github": "https://github.com/ailuropix",
+                    "linkedin": "www.linkedin.com/in/pooja-purohit-749778282",
+                    "instagram": "https://www.instagram.com/idkanymorelool/"
+                }
+            },
+            {
+                "name": "Pooja Purohit",
+                "designation": "Technical Head",
+                "img":"Pooja Purohit.JPG",
+                "social_links": {
+                    "github": "https://github.com/ailuropix",
+                    "linkedin": "www.linkedin.com/in/pooja-purohit-749778282",
+                    "instagram": "https://www.instagram.com/idkanymorelool/"
+                }
+            },
+            {
+                "name": "Siddhi Vesawkar",
+                "designation": "Publication Head",
+                "img":"Siddhi Vesawkar.jpg",
+                "social_links": {
+                    "linkedin": "https://www.linkedin.com/in/siddhi-vesawkar-4aa7b725b?",
+                    "instagram": "https://www.instagram.com/siddhivesawkar_?igsh="
+                }
+            },
+            {
+                "name": "Prashant Yelurkar",
+                "designation": "Web Master",
+                "img":"Prashant Yelurkar.jpg",
+                "social_links": {
+                    "github": "https://github.com/Prashant-Yelurkar",
+                    "linkedin": "https://www.linkedin.com/in/prashant-yelurkar/",
+                    "instagram": "https://www.instagram.com/prashant.yelurkar/"
+                }
+            }
+        ]
+    },
+    {
+        "year" : "2023 - 2024",
+        "teamData" :[
+            {
+                "name": "Ayush Singh",
+                "designation": "Chairperson",
+                "img":"Ayush Singh.JPG",
+                "social_links": {
+                    "linkedin": "https://www.linkedin.com/in/03-ayush-singh/",
+                    "instagram": "https://www.instagram.com/ayushsingh0125/"
+                }
+            },
+            {
+                "name": "Bhavesh Yadav",
+                "designation": "Vice president ",
+                "img":"Bhavesh Yadav.JPG",
+                "social_links": {
+                    "github": "https://github.com/bhaveshy9108?tab=repositories",
+                    "linkedin": "https://www.linkedin.com/in/connect-with-bhavesh-yadav/",
+                    "instagram": "https://www.instagram.com/_bhavesh_yadav/"
+                }
+            },
+            {
+                "name": "Ankush Tiwari",
+                "designation": "Event Manager",
+                "img":"Ankush Tiwari.JPG",
+                "social_links": {
+                    "linkedin": "https://www.linkedin.com/in/ankush-tiwari-1b50a9237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                    "instagram": "https://www.instagram.com/annkushhhh?igsh=MTA5bDRvOWk5c2xyYw%3D%3D&utm_source=qr"
+                }
+            },
+            {
+                "name": "Shreyash Manoj Singh ",
+                "designation": "Treasurer",
+                "img":"Shreyash Manoj Singh .JPG",
+                "social_links": {
+                    "github": "https://github.com/ShreyashSingh1",
+                    "linkedin": "www.linkedin.com/in/shreyashsingh865",
+                    "instagram": "https://www.instagram.com/_.___shreyash___._/?hl=en"
+                }
+            },
+            {
+                "name": "Piyush Vishwakarma",
+                "designation": "Sponsorship Head",
+                "img":"PIYUSH VISHWAKARMA.JPG",
+                "social_links": {
+                    "github": "https://github.com/Piyush-Vishwakarma-27",
+                    "linkedin": "https://www.linkedin.com/in/piyush-v-76165621a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                    "instagram": "https://www.instagram.com/invites/contact/?i=b93jelzww2m&utm_content=c95s5s7e"
+                }
+            },
+            {
+                "name": "Nishita Patel",
+                "designation": "Secretary",
+                "img":"Nishita Patel.JPG",
+                "social_links": {
+                    "instagram": "https://www.instagram.com/nishitaaaaa__?igsh=ZGNjOWZkYTE3MQ=="
+                }
+            },
+            {
+                "name": "Mayank Mishra",
+                "designation": "Creative Head",
+                "img":"Mayank.JPG",
+                "social_links": {
+                    "github": "https://github.com/ailuropix",
+                    "linkedin": "www.linkedin.com/in/pooja-purohit-749778282",
+                    "instagram": "https://www.instagram.com/idkanymorelool/"
+                }
+            },
+            {
+                "name": "Pooja Purohit",
+                "designation": "Technical Head",
+                "img":"Pooja Purohit.JPG",
+                "social_links": {
+                    "github": "https://github.com/ailuropix",
+                    "linkedin": "www.linkedin.com/in/pooja-purohit-749778282",
+                    "instagram": "https://www.instagram.com/idkanymorelool/"
+                }
+            },
+            {
+                "name": "Siddhi Vesawkar",
+                "designation": "Publication Head",
+                "img":"Siddhi Vesawkar.jpg",
+                "social_links": {
+                    "linkedin": "https://www.linkedin.com/in/siddhi-vesawkar-4aa7b725b?",
+                    "instagram": "https://www.instagram.com/siddhivesawkar_?igsh="
+                }
+            },
+            {
+                "name": "Prashant Yelurkar",
+                "designation": "Web Master",
+                "img":"Prashant Yelurkar.jpg",
+                "social_links": {
+                    "github": "https://github.com/Prashant-Yelurkar",
+                    "linkedin": "https://www.linkedin.com/in/prashant-yelurkar/",
+                    "instagram": "https://www.instagram.com/prashant.yelurkar/"
+                }
+            }
+        ]
+    }
+]

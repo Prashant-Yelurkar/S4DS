@@ -1,0 +1,34 @@
+[
+
+    {
+        "year": "2023-2024",
+        "events": [
+            {
+                "id":"1",
+                "name": "Celebrating the Inauguration of our S4DS TCET",
+                "date": "1 September",
+                "description": "The inauguration of the Society for Data Science (S4DS) was a momentous occasion, igniting a passion for innovation and inclusivity in the realm of Artificial Intelligence and Data Science. Dr. Kriti Srivastava's inspiring presence elevated the event, while the committee unveiled a vision to nurture talent through workshops and hackathons. With boundless enthusiasm, we embark on a journey towards a brighter future, united in our pursuit of excellence..",
+                "header-image": "1-1.jpeg",
+                "images": [
+                    "1-2.jpeg",
+                    "1-3.jpeg",
+                    "1-4.jpeg",
+                    "1-5.jpeg"
+                ]
+            },
+            {
+                "id":"2",
+                "name": "Data Science Discovery: Charting Your Path to Success",
+                "date": "11 February",
+                "description": "Our February 11th event, &#10077; &nbsp;&nbsp;Charting Your Path to Success in Data Science, &nbsp;&nbsp;&#10078; was a hit! Attendees enjoyed workshops, panel discussions, and insights from industry experts like Alisha Gupta from Deloitte. They networked, gained insider tips, accessed exclusive resources, and earned AICTE points. It was an enlightening seminar that equipped attendees with the knowledge and skills needed to excel in data science.",
+                "header-image": "2-1.jpeg",
+                "images": [
+                    "2-2.jpeg",
+                    "2-3.jpeg",
+                    "2-4.jpeg"
+                ]
+            }
+        ]
+    }
+    
+]
