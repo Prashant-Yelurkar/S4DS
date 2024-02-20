@@ -1,11 +1,11 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Workbench&display=swap'); */
+
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@900&family=Sixtyfour&family=Workbench&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Protest+Guerrilla&display=swap');
 * {
     margin: 0;
 }
 body {
-    background-image: url('https://s.itl.cat/pngfile/s/78-789163_wide-dark-blue-gradient-backgrounds.jpg');
+    background-image: url('images/mainBg.jpg');
     background-size: 100% 800%;
     font-weight: 900;
     height: 100vh;
@@ -49,7 +49,7 @@ body {
             line-height: 80%;
             font-weight: 900;
             font-family: 'Rubik', sans-serif;
-            background-image: url('https://i.gifer.com/J4o.gif');
+            background-image: url('images/domain.gif');
             background-clip: text;
             color: transparent;
             filter: drop-shadow(1px 0 0.2rem #ffffff);
@@ -484,7 +484,7 @@ body {
             border: solid 0px transparent;
             animation: event 0.5s;
             z-index: -3;
-            background-image: url('https://s.itl.cat/pngfile/s/78-789163_wide-dark-blue-gradient-backgrounds.jpg');
+            background-image: url('images/eventBg.jpg');
             background-size: 100%, 800%;
             
             .event-images{

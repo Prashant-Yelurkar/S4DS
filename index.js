@@ -163,11 +163,12 @@ $( document ).ready(function() {
 
     // Audio playing
     const Audio =  document.getElementById("Audio");
+    Audio.play();
     var greetings = 0;
     $(document).on("click", function(){
         if(greetings == 0)
         {
-            // Audio.play();
+            Audio.play();
             greetings = 1;
             $(".music-icon").addClass("fa-pause");
             $('.music').css("background-image", "url(images/music.gif"); 
